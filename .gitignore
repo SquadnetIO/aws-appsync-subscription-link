@@ -1,0 +1,13 @@
+__mocks__/**
+__tests__/**
+coverage/**
+docs/**
+dist
+node_modules/**
+test_Setup/**
+.vscode/**
+.DS_Store
+*.log
+prepend-license.js
+docker_node_modules_cache
+.git

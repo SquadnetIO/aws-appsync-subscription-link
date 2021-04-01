@@ -1,0 +1,10 @@
+docker_node_modules_cache/
+data/
+node_modules/
+test/
+docker-compose-tdd.yml
+yarn.lock
+yarn-error.lock
+tsconfig.json
+gulpfile.js
+.npmrc
